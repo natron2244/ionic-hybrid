@@ -1,0 +1,7 @@
+{
+  "name": "module-based",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
